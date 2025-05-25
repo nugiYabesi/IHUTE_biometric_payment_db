@@ -256,4 +256,4 @@ Prevent DML on weekdays and holidays, and log attempts.
 
 ---
 
-[DOWNLOAD MY PROJECT FULL SYNTAX](relative/path/to/file.sql)
+[DOWNLOAD MY PROJECT FULL SYNTAX]([relative/path/to/file.sql](https://github.com/nugiYabesi/IHUTE_biometric_payment_db/blob/0ba6d0db8dce3801bb5386109273c4b088422d6e/THU_27327_YABESI_PALMPAYMENT_DB/THU_27327_YABESI_PALMPAYMENT_DB.sql))
