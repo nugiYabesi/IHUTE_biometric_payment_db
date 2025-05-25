@@ -241,7 +241,6 @@ Prevent DML on weekdays and holidays, and log attempts.
 - 🆔 **Student ID:** 27327  
 - 🏫 **Degree:** Bachelor of Technology in Software Engineering  
 - 📧 **Email:** nugiybes@gmail.com  
-- 🌍 **GitHub:** [github.com/Yabesi-Iyukuri](https://github.com/Yabesi-Iyukuri)  
 - 📱 **Phone:** +250 790 052 578
 
 ---
