@@ -255,3 +255,5 @@ Prevent DML on weekdays and holidays, and log attempts.
 > 🔍 _Think about the future of biometrics, security, and intelligent systems._
 
 ---
+
+[DOWNLOAD MY PROJECT FULL SYNTAX](relative/path/to/file.sql)
